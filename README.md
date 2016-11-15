@@ -1,15 +1,12 @@
 # From Text Analysis to Actionable Knowledge: Data-intensive Methods for Unstructured and Text-heavy Data
 
-## Time and Venue
-Tuesday, November 29, 10:00-14:00 \newline
-[where]
+### Time and Venue
+Tuesday, November 29, 10:00-14:00,
 
-## Speaker
-Hilke Reckman (HR),
-Morten H.J. Fenger (MHJF)
-Kristoffer L. Nielbo (KLN),
+### Speaker
+Hilke Reckman (HR), Morten H.J. Fenger (MHJF), Kristoffer L. Nielbo (KLN),
 
-## Program
+### Program
 
 | Time        | Title           | Speaker |
 | ------------- |:-------------:| -----:|
@@ -21,25 +18,23 @@ Kristoffer L. Nielbo (KLN),
 | 13:00-13:30 | TM applications | MHJF |
 | 13:30-14:00 | General Discussion
 
-## topics
+### Topics
 `text analytics`, `business intelligence`,
 `language representations`,`data preparation`,
-`sentiment analysis`,`latent variables`, `classification`,
+`sentiment analysis`,`latent variables`, `classification`,`clustering`
 `resources and tools`
-## keywords
+### Keywords
 `division of labor`, `domain knowledge`
 
-Text Analytics
 
 ### Commments
 examples and best practice approach
-everything on one computer + repo
 
-### data
+### Data
 text data from one company(-ies)
   - interviews
   - social media
   - validity at the expense of detail
 
-### applications  
+### Applications  
   - increase the context size
