@@ -13,34 +13,20 @@ Hilke Reckman (HR), Morten H.J. Fenger (MHJF), Kristoffer L. Nielbo (KLN),
 | Time        | Title           | Speaker |
 | ------------- |:-------------:| -----:|
 | 10:00-10:30 | Text Analytics | KLN |
-| 10:30-11:00 | Division of Labor: NLP | HR |
+| 10:30-11:00 | Division of Labor and NLP | HR |
 | 11:30-12:00 | Models and Algorithms #1 | HR/KLN |
 | 12:00-12:30 | lunch| |
 | 12:30-13:00 | Models and Algorithms #2 | KLN |
-| 13:00-13:30 | TM applications | MHJF |
+| 13:00-13:30 | Applicatied Text Mining | MHJF |
 | 13:30-14:00 | General Discussion| KLN/MHJF |  
 
 
-### Topics
+### Keywords
 `text analytics`, `business intelligence`,
 `language representations`,`data preparation`,
 `sentiment analysis`,`latent variables`, `classification`,`clustering`
-`resources and tools`
-### Keywords
-`division of labor`, `domain knowledge`
+`resources and tools`, `division of labor`, `domain knowledge`
 
-
-### Commments
-examples and best practice approach
-
-### Data
-text data from one company(-ies)
-  - interviews
-  - social media
-  - validity at the expense of detail
-
-### Applications  
-  - increase the context size
 
 ## Detailed Program
 
