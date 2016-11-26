@@ -3,7 +3,7 @@
 ```yaml
 Date: Tuesday, November 29,
 Time: 10:00-14:00
-Location:
+Location: 1324, 025, Tvillingeauditorium
 ```
 ### Speaker
 Hilke Reckman (HR), Morten H.J. Fenger (MHJF), Kristoffer L. Nielbo (KLN),
@@ -15,9 +15,9 @@ Hilke Reckman (HR), Morten H.J. Fenger (MHJF), Kristoffer L. Nielbo (KLN),
 | 10:00-10:30 | Text Analytics | KLN |
 | 10:30-11:00 | Division of Labor and NLP | HR |
 | 11:30-12:00 | Models and Algorithms #1 | HR/KLN |
-| 12:00-12:30 | lunch| |
+| 12:00-12:30 | Lunch| |
 | 12:30-13:00 | Models and Algorithms #2 | KLN |
-| 13:00-13:30 | Applicatied Text Mining | MHJF |
+| 13:00-13:30 | Applied Text Mining | MHJF |
 | 13:30-14:00 | General Discussion| KLN/MHJF |  
 
 
@@ -40,6 +40,7 @@ Text analytics relies heavily on techniques from machine learning for macro-leve
 
 ## Biographies
 **HR** is a computational semanticist interested in how people understand language, and try to investigate this through computational modeling. HR is particularly interested in the relation between language and thought, or reasoning, and in how languages are learned in the first place: How do language learners figure out what the people around them are trying to say, and how do they learn to formulate their own messages about the world? The computational approach allows for experimenting with different mechanisms, datasets, and prior knowledge and assumptions in order to get a better understanding of what is minimally needed for language acquisition. Computational models of how people deal with language also have the potential to lead to interesting applications where computers use human language more intelligently than they do now.  
+
 **MHJF**  
 
 **KLN** is a humanist scholar with specialization in computational and quantitative methods for analysis, interpretation and storage of cultural data. He has participated in a range of collaborative and interdisciplinary research projects involving researchers from the humanities, social sciences, health science, and natural sciences. His research covers two broad areas: automated text analysis and modeling of cultural behavior. Both areas explore the cultural information space in new and innovative ways by combining cultural data and humanities theories with statistics, computer algorithms, and visualization.
