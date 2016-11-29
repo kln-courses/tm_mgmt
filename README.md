@@ -14,7 +14,8 @@ Hilke Reckman (HR), Morten H.J. Fenger (MHJF), Kristoffer L. Nielbo (KLN),
 | ------------- |:-------------:| -----:|
 | 10:00-10:30 | Text Analytics | KLN |
 | 10:30-11:00 | Natural Language Processing | HR |
-| 11:30-12:00 | Models and Algorithms #1 | HR/KLN |
+| 11:00-11:30 | Models and Algorithms #1 | KLN |
+| 11:30-12:30 | General Discussion | KLN/HR |
 | 12:00-12:30 | Lunch| |
 | 12:30-13:00 | Models and Algorithms #2 | KLN |
 | 13:00-13:30 | Applied Text Mining | MHJF |
